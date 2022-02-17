@@ -1,1 +1,2 @@
-# PryanikiTestTask
+# Тестовое задание
+API протестировано с помощью Swagger
